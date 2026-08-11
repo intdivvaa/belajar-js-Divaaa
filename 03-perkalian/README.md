@@ -21,3 +21,6 @@ Melatih perulangan dan memahami *kapan* perulangan dibutuhkan.
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Kenapa tugas ini lebih tepat pakai perulangan, bukan menulis 10 baris console.log satu per satu?
+
+// cara penyelesaiannya disini aku pakai for terus let habis itu mengatur angka yang akan keluar di terminal maksimal berapa dan minimal berapa. Terus memasukkan rumusnya di console.log agar dapat menghitung perkalian angka 8 yang dikalikan dengan angka 1 smpai 10.
+// Pakai perulangan biar kodenya  lebih singkat dan lebih mudah, serta mempersingkat waktu penulisan kode, tidak perlu panjang-panjang mengetikkan console.log yang banyak. 
