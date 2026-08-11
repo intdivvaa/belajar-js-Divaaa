@@ -22,3 +22,6 @@ Melatih pembuatan fungsi dengan parameter dan nilai kembalian (`return`).
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Apa bedanya fungsi yang pakai `return` dengan fungsi yang langsung `console.log` di dalamnya?
+
+//Caraku menyenyelesaikan tugas ini dengan menggunakan dua fungsi (function) untuk menghitung suhu dari celcius ke fahrenheit dan dari celcius ke reamur, dengan rumus yang sudah diberikan, jadi kedua fungsi ini outputnya bisa langsung kedua satuan suhu. 
+// Perbedaan menggunakan fungsi return itu lebih mudah jadi tidak harus mengetikkan satu persatu console.log tanpa mengtikkan rumus di setiap console.log, jadinya lebih mempersingkat kode dan waktu.
